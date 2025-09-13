@@ -1,0 +1,892 @@
+{
+  "2025-08-01": [
+    {
+      "title": "Membership Year Begins",
+      "group": "Middle School"
+    },
+    {
+      "title": "Champion Chapter Begins",
+      "group": "Middle School"
+    },
+    {
+      "title": "Membership Year Begins",
+      "group": "High School"
+    },
+    {
+      "title": "Champion Chapter: Summer Starter Begins",
+      "group": "High School"
+    },
+    {
+      "title": "Membership Year Begins",
+      "group": "College"
+    }
+  ],
+  "2025-08-15": [
+    {
+      "title": "NFLC Registration Opens",
+      "group": "Middle School"
+    },
+    {
+      "title": "Middle School Student Leadership Council Application Deadline",
+      "group": "Middle School"
+    },
+    {
+      "title": "NFLC Registration Opens",
+      "group": "High School"
+    },
+    {
+      "title": "CCC Registration Opens",
+      "group": "College"
+    }
+  ],
+  "2025-09-01": [
+    {
+      "title": "Competitive Events Guidelines Released",
+      "group": "Middle School"
+    },
+    {
+      "title": "Lead4Change Program Opens",
+      "group": "Middle School"
+    },
+    {
+      "title": "Competitive Events Guidelines Released",
+      "group": "High School"
+    },
+    {
+      "title": "Competitive Events Guidelines Released",
+      "group": "College"
+    }
+  ],
+  "2025-09-02": [
+    {
+      "title": "Fall Stock Market Game Registration Opens",
+      "group": "Middle School"
+    },
+    {
+      "title": "Fall LifeSmarts Challenge Registration Opens",
+      "group": "Middle School"
+    },
+    {
+      "title": "Fall Stock Market Game Registration Opens",
+      "group": "High School"
+    },
+    {
+      "title": "Fall LifeSmarts Challenge Registration Opens",
+      "group": "High School"
+    },
+    {
+      "title": "Fall Stock Market Game Registration Opens",
+      "group": "College"
+    }
+  ],
+  "2025-10-01": [
+    {
+      "title": "Lead4Change Program Opens",
+      "group": "Middle School"
+    },
+    {
+      "title": "Knowledge Matters Fall Virtual Business Challenge Registration Opens",
+      "group": "High School"
+    },
+    {
+      "title": "Lead4Change Program Opens",
+      "group": "High School"
+    }
+  ],
+  "2025-10-06": [
+    {
+      "title": "Fall Stock Market Game Begins",
+      "group": "Middle School"
+    },
+    {
+      "title": "Fall Stock Market Game Begins",
+      "group": "High School"
+    },
+    {
+      "title": "Fall Stock Market Game Begins",
+      "group": "College"
+    }
+  ],
+  "2025-10-13": [
+    {
+      "title": "Fall LifeSmarts Challenge Begins",
+      "group": "Middle School"
+    },
+    {
+      "title": "Fall LifeSmarts Challenge Begins",
+      "group": "High School"
+    }
+  ],
+  "2025-10-14": [
+    {
+      "title": "NFLC Registration & Housing Deadline",
+      "group": "Middle School"
+    },
+    {
+      "title": "Knowledge Matters Fall Virtual Business Challenge Begins",
+      "group": "High School"
+    },
+    {
+      "title": "NFLC Registration & Housing Deadline",
+      "group": "High School"
+    }
+  ],
+  "2025-10-24": [
+    {
+      "title": "Fall Stock Market Game Registration Closes",
+      "group": "Middle School"
+    },
+    {
+      "title": "Fall Stock Market Game Registration Closes",
+      "group": "High School"
+    },
+    {
+      "title": "Fall Stock Market Game Registration Closes",
+      "group": "College"
+    }
+  ],
+  "2025-11-07": [
+    {
+      "title": "Fall LifeSmarts Challenge Ends",
+      "group": "Middle School"
+    },
+    {
+      "title": "NFLC IN PHOENIX, AZ",
+      "group": "Middle School"
+    },
+    {
+      "title": "Knowledge Matters Fall Virtual Business Challenge Ends",
+      "group": "High School"
+    },
+    {
+      "title": "Fall LifeSmarts Challenge Ends",
+      "group": "High School"
+    },
+    {
+      "title": "Fall State Officer Summit",
+      "group": "High School"
+    },
+    {
+      "title": "NFLC IN PHOENIX, AZ",
+      "group": "High School"
+    }
+  ],
+  "2025-11-08": [
+    {
+      "title": "NFLC IN PHOENIX, AZ",
+      "group": "Middle School"
+    },
+    {
+      "title": "NFLC IN PHOENIX, AZ",
+      "group": "High School"
+    }
+  ],
+  "2025-11-15": [
+    {
+      "title": "American Enterprise Day",
+      "group": "Middle School"
+    },
+    {
+      "title": "Dressed to Impress Scholarship Application Deadline",
+      "group": "Middle School"
+    },
+    {
+      "title": "American Enterprise Day",
+      "group": "High School"
+    },
+    {
+      "title": "Dressed to Impress Scholarship Application Deadline",
+      "group": "High School"
+    },
+    {
+      "title": "CCC IN DES MOINES, IA",
+      "group": "College"
+    },
+    {
+      "title": "American Enterprise Day",
+      "group": "College"
+    },
+    {
+      "title": "Dressed to Impress Scholarship Application Deadline",
+      "group": "College"
+    }
+  ],
+  "2025-12-12": [
+    {
+      "title": "Fall Stock Market Game Ends",
+      "group": "Middle School"
+    },
+    {
+      "title": "Fall Stock Market Game Ends",
+      "group": "High School"
+    },
+    {
+      "title": "Fall Stock Market Game Ends",
+      "group": "College"
+    }
+  ],
+  "2025-12-24": [
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "High School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "College"
+    }
+  ],
+  "2025-12-25": [
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "High School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "College"
+    }
+  ],
+  "2025-12-26": [
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "High School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "College"
+    }
+  ],
+  "2025-12-27": [
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "High School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "College"
+    }
+  ],
+  "2025-12-28": [
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "High School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "College"
+    }
+  ],
+  "2025-12-29": [
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "High School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "College"
+    }
+  ],
+  "2025-12-30": [
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "High School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "College"
+    }
+  ],
+  "2025-12-31": [
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "High School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "College"
+    }
+  ],
+  "2026-01-01": [
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "Middle School"
+    },
+    {
+      "title": "Pending Payment Membership Activation Grace Period Ends",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "High School"
+    },
+    {
+      "title": "Pending Payment Membership Activation Grace Period Ends",
+      "group": "High School"
+    },
+    {
+      "title": "National Center Closed for Winter Break",
+      "group": "College"
+    },
+    {
+      "title": "Pending Payment Membership Activation Grace Period Ends",
+      "group": "College"
+    }
+  ],
+  "2026-01-02": [
+    {
+      "title": "Spring Stock Market Game Registration Opens",
+      "group": "Middle School"
+    },
+    {
+      "title": "Spring LifeSmarts Challenge Registration Opens",
+      "group": "Middle School"
+    },
+    {
+      "title": "Knowledge Matters Spring Virtual",
+      "group": "High School"
+    },
+    {
+      "title": "Business Challenge Registration Opens",
+      "group": "High School"
+    },
+    {
+      "title": "Spring Stock Market Game Registration Opens",
+      "group": "High School"
+    },
+    {
+      "title": "Spring LifeSmarts Challenge Registration Opens",
+      "group": "High School"
+    },
+    {
+      "title": "Spring Stock Market Game Registration Opens",
+      "group": "College"
+    }
+  ],
+  "2026-01-26": [
+    {
+      "title": "Spring LifeSmarts Challenge Begins",
+      "group": "Middle School"
+    },
+    {
+      "title": "Spring LifeSmarts Challenge Begins",
+      "group": "High School"
+    }
+  ],
+  "2026-02-01": [
+    {
+      "title": "National Career & Technical Education Month Begins",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Career & Technical Education Month Begins",
+      "group": "High School"
+    },
+    {
+      "title": "National Career & Technical Education Month Begins",
+      "group": "College"
+    }
+  ],
+  "2026-02-02": [
+    {
+      "title": "Spring Stock Market Game Begins",
+      "group": "Middle School"
+    },
+    {
+      "title": "Knowledge Matters Spring Virtual Business Challenge Begins",
+      "group": "High School"
+    },
+    {
+      "title": "Spring Stock Market Game Begins",
+      "group": "High School"
+    },
+    {
+      "title": "Spring Stock Market Game Begins",
+      "group": "College"
+    }
+  ],
+  "2026-02-08": [
+    {
+      "title": "FBLA Week",
+      "group": "Middle School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "High School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "College"
+    }
+  ],
+  "2026-02-09": [
+    {
+      "title": "FBLA Week",
+      "group": "Middle School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "High School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "College"
+    }
+  ],
+  "2026-02-10": [
+    {
+      "title": "FBLA Week",
+      "group": "Middle School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "High School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "College"
+    }
+  ],
+  "2026-02-11": [
+    {
+      "title": "FBLA Week",
+      "group": "Middle School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "High School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "College"
+    }
+  ],
+  "2026-02-12": [
+    {
+      "title": "FBLA Week",
+      "group": "Middle School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "High School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "College"
+    }
+  ],
+  "2026-02-13": [
+    {
+      "title": "FBLA Week",
+      "group": "Middle School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "High School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "College"
+    }
+  ],
+  "2026-02-14": [
+    {
+      "title": "FBLA Week",
+      "group": "Middle School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "High School"
+    },
+    {
+      "title": "FBLA Week",
+      "group": "College"
+    }
+  ],
+  "2026-02-20": [
+    {
+      "title": "Spring LifeSmarts Challenge Ends",
+      "group": "Middle School"
+    },
+    {
+      "title": "Spring Stock Market Game Registration Closes",
+      "group": "Middle School"
+    },
+    {
+      "title": "Spring LifeSmarts Challenge Ends",
+      "group": "High School"
+    },
+    {
+      "title": "Spring Stock Market Game Registration Closes",
+      "group": "High School"
+    },
+    {
+      "title": "Spring Stock Market Game Registration Closes",
+      "group": "College"
+    }
+  ],
+  "2026-02-28": [
+    {
+      "title": "National Career & Technical Education Month Ends",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Career & Technical Education Month Ends",
+      "group": "High School"
+    },
+    {
+      "title": "National Career & Technical Education Month Ends",
+      "group": "College"
+    }
+  ],
+  "2026-03-01": [
+    {
+      "title": "Membership Dues Payment Deadline for NLC competitors",
+      "group": "Middle School"
+    },
+    {
+      "title": "Membership Dues Payment Deadline for NLC competitors, National Officer Candidates, and voting delegates",
+      "group": "High School"
+    },
+    {
+      "title": "Membership Dues Payment Deadline for NLC competitors, National Officer Candidates, and voting delegates",
+      "group": "College"
+    }
+  ],
+  "2026-04-01": [
+    {
+      "title": "National Financial Literacy Month Begins",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Bylaws Amendment Proposal Submission Deadline",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Financial Literacy Month Begins",
+      "group": "High School"
+    },
+    {
+      "title": "National Bylaws Amendment Proposal",
+      "group": "High School"
+    },
+    {
+      "title": "National Bylaws Amendment Proposal Submission Deadline",
+      "group": "High School"
+    },
+    {
+      "title": "National Financial Literacy Month Begins",
+      "group": "College"
+    },
+    {
+      "title": "National Bylaws Amendment Proposal Submission Deadline",
+      "group": "College"
+    }
+  ],
+  "2026-04-10": [
+    {
+      "title": "Spring Stock Market Game Ends",
+      "group": "Middle School"
+    },
+    {
+      "title": "Spring Stock Market Game Ends",
+      "group": "High School"
+    },
+    {
+      "title": "Spring Stock Market Game Ends",
+      "group": "College"
+    }
+  ],
+  "2026-04-15": [
+    {
+      "title": "NLC Scholarship Application Deadlines",
+      "group": "Middle School"
+    },
+    {
+      "title": "NLC, NTHS, and Distinguished Business Leader Scholarship Application Deadlines",
+      "group": "High School"
+    }
+  ],
+  "2026-04-30": [
+    {
+      "title": "National Financial Literacy Month Ends",
+      "group": "Middle School"
+    },
+    {
+      "title": "National Financial Literacy Month Ends",
+      "group": "High School"
+    },
+    {
+      "title": "National Financial Literacy Month",
+      "group": "College"
+    }
+  ],
+  "2026-06-01": [
+    {
+      "title": "LEAD Award Submission Deadline for NLC Recognition",
+      "group": "Middle School"
+    },
+    {
+      "title": "Champion Chapter Submission Deadline",
+      "group": "Middle School"
+    },
+    {
+      "title": "#ENDALZ: San Antonio Board Submission Deadline",
+      "group": "Middle School"
+    },
+    {
+      "title": "Lead4Change Program Closes",
+      "group": "Middle School"
+    },
+    {
+      "title": "#ENDALZ: San Antonio Board Submission Deadline",
+      "group": "High School"
+    },
+    {
+      "title": "BAA Submission Deadline for NLC Recognition",
+      "group": "High School"
+    },
+    {
+      "title": "Lead4Change Program Closes",
+      "group": "High School"
+    }
+  ],
+  "2026-06-29": [
+    {
+      "title": "NLC IN SAN ANTONIO, TX",
+      "group": "Middle School"
+    },
+    {
+      "title": "NLC IN SAN ANTONIO, TX",
+      "group": "High School"
+    }
+  ],
+  "2026-06-30": [
+    {
+      "title": "NLC IN SAN ANTONIO, TX",
+      "group": "Middle School"
+    },
+    {
+      "title": "NLC IN SAN ANTONIO, TX",
+      "group": "High School"
+    }
+  ],
+  "2026-07-01": [
+    {
+      "title": "NLC IN SAN ANTONIO, TX",
+      "group": "Middle School"
+    },
+    {
+      "title": "NLC IN SAN ANTONIO, TX",
+      "group": "High School"
+    }
+  ],
+  "2026-07-02": [
+    {
+      "title": "NLC IN SAN ANTONIO, TX",
+      "group": "Middle School"
+    },
+    {
+      "title": "NLC IN SAN ANTONIO, TX",
+      "group": "High School"
+    }
+  ],
+  "2025-09-24": [
+    {
+      "title": "Champion Chapter: Summer Starter Submission",
+      "group": "High School"
+    }
+  ],
+  "2025-09-25": [
+    {
+      "title": "Champion Chapter: Shaping Success Begins",
+      "group": "High School"
+    }
+  ],
+  "2025-10-15": [
+    {
+      "title": "ACTE Outstanding Business Student Award Application Deadline",
+      "group": "High School"
+    },
+    {
+      "title": "ACTE Outstanding Business Student Award Application Deadline",
+      "group": "College"
+    }
+  ],
+  "2025-11-05": [
+    {
+      "title": "Champion Chapter: Shaping Success Submission Deadline",
+      "group": "High School"
+    }
+  ],
+  "2025-11-06": [
+    {
+      "title": "Champion Chapter: Service Season Begins",
+      "group": "High School"
+    }
+  ],
+  "2026-01-07": [
+    {
+      "title": "Champion Chapter: Service Season Submission Deadline",
+      "group": "High School"
+    }
+  ],
+  "2026-01-08": [
+    {
+      "title": "Champion Chapter: CTE Celebration Begins",
+      "group": "High School"
+    }
+  ],
+  "2026-01-09": [
+    {
+      "title": "Champion Chapter: Champion Plus Begins",
+      "group": "High School"
+    }
+  ],
+  "2026-02-27": [
+    {
+      "title": "Knowledge Matters Spring Virtual Business",
+      "group": "High School"
+    },
+    {
+      "title": "Knowledge Matters Spring Virtual Business Challenge Ends",
+      "group": "High School"
+    }
+  ],
+  "2026-03-04": [
+    {
+      "title": "Champion Chapter: CTE Celebration Submission Deadline",
+      "group": "High School"
+    }
+  ],
+  "2026-04-27": [
+    {
+      "title": "Spring State Officer Summit",
+      "group": "High School"
+    }
+  ],
+  "2026-05-06": [
+    {
+      "title": "Champion Chapter: Champion Plus Submission Deadline",
+      "group": "High School"
+    }
+  ],
+  "2026-05-11": [
+    {
+      "title": "National Officer Candidate Application and Campaign Materials Submission Deadline",
+      "group": "High School"
+    }
+  ],
+  "2026-05-15": [
+    {
+      "title": "State Leader National Officer Candidate Approval Form Submission Deadline",
+      "group": "High School"
+    }
+  ],
+  "2025-10-18": [
+    {
+      "title": "Officer Leadership Summit",
+      "group": "College"
+    }
+  ],
+  "2025-10-21": [
+    {
+      "title": "CCC in Des Moines, IA Deadline",
+      "group": "College"
+    }
+  ],
+  "2025-11-13": [
+    {
+      "title": "CCC IN DES MOINES, IA",
+      "group": "College"
+    }
+  ],
+  "2025-11-14": [
+    {
+      "title": "CCC IN DES MOINES, IA",
+      "group": "College"
+    }
+  ],
+  "2025-11-12": [
+    {
+      "title": "Fall Stock Market Game Ends",
+      "group": "College"
+    }
+  ],
+  "2026-02-21": [
+    {
+      "title": "Officer Leadership Summit",
+      "group": "College"
+    }
+  ],
+  "2026-03-20": [
+    {
+      "title": "NLC Scholarship Application Deadline",
+      "group": "College"
+    }
+  ],
+  "2026-04-11": [
+    {
+      "title": "National Officer Candidate Application and Campaign Materials Submission Deadline",
+      "group": "College"
+    }
+  ],
+  "2026-05-01": [
+    {
+      "title": "Excellence Award Submission Deadline",
+      "group": "College"
+    },
+    {
+      "title": "Outstanding Chapter Submission Deadline",
+      "group": "College"
+    }
+  ],
+  "2026-06-06": [
+    {
+      "title": "NLC IN LAS VEGAS, NV",
+      "group": "College"
+    }
+  ],
+  "2026-06-07": [
+    {
+      "title": "NLC IN LAS VEGAS, NV",
+      "group": "College"
+    }
+  ],
+  "2026-06-08": [
+    {
+      "title": "NLC IN LAS VEGAS, NV",
+      "group": "College"
+    }
+  ]
+}
